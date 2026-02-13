@@ -28,9 +28,7 @@ If any hands are found in the frame, an extended bounding box is created around 
 4. **Sign Recognition** 
 : The processed input is passed through a [SqueezeNet](https://arxiv.org/abs/1602.07360) model trained (via Transfer Learning) on a synthesized and cleaned Indian Sign Language dataset consisting of 10 classes, and ~2300+ images per class.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/39513876/119128821-c54ad600-ba53-11eb-94b1-25727c70800b.jpg" width="500">
-</p>
+
 
 <div align="center"> <i>Hand Detection performed on the Live Feed Input</i> </div>
 </n>
