@@ -70,15 +70,3 @@ The specific versions are mentioned in requirements.txt
 
 This translator was originally created as part of our Final Year Project, consisting of the following members -
 
-| Name | GithubID |
-| ----------- | ----------- |
-| Abhishek Singh Dhadwal | [AbhishekSinghDhadwal](https://github.com/AbhishekSinghDhadwal) |
-| Saurabh Pujari | [saurabh0719](https://github.com/saurabh0719) | 
-| Kopal Bhatnagar | [kopalbhatnagar05](https://github.com/kopalbhatnagar05) | 
-| Yash Kumar | [yashKumar2412](https://github.com/yashKumar2412) | 
-
-#### Credits:
-1. Jeanvit, for the skin segmentation algorithm [code](https://github.com/Jeanvit/PySkinDetection)
-2. Cansik, for the hand detection [NN](https://github.com/cansik/yolo-hand-detection/)
-
-For further details on the implementation, kindly refer to the **Thesis** folder containing both the project report and the final presentation.
